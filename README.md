@@ -1,4 +1,4 @@
-# A Complete Beginner's Guide to Django
+# SP A Complete Beginner's Guide to Django
 
 [![Python Version](https://img.shields.io/badge/python-3.6-brightgreen.svg)](https://python.org)
 [![Django Version](https://img.shields.io/badge/django-1.11-brightgreen.svg)](https://djangoproject.com)
@@ -26,7 +26,7 @@ For the complete tutorial series index [click here](https://simpleisbetterthanco
 First, clone the repository to your local machine:
 
 ```bash
-git clone git@github.com:sibtc/django-beginners-guide.git
+git clone git@github.com:/sergiopino/django-beginners-guide.git
 ```
 
 Install the requirements:
